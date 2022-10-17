@@ -18,7 +18,15 @@
 		padding: auto;
 	}
 
+	/* comment to check */
+
 	#img-div{
+   		padding-right: 120px;
+   		border: 5;
+   		max-width: 100%;
+
+	}
+	#img-div1{
    		padding-right: 120px;
    		border: 5;
    		max-width: 100%;
